@@ -15,6 +15,12 @@
       - [Live Preview](#live-preview)
       - [Prettier](#prettier)
       - [W3C Web Validator](#w3c-web-validator)
+  - [Software Engineering Best Practices](#software-engineering-best-practices)
+    - [Frontend](#frontend)
+    - [HTML](#html)
+    - [JavaScript](#javascript)
+    - [ReactJS](#reactjs)
+    - [READMEs](#readmes)
   - [Contribute](#contribute)
 
 ## Visual Studio Code
@@ -71,6 +77,32 @@ The W3C Web Validator extension for Visual Studio Code allows you to validate HT
 - [W3C Web Validator - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator)
 
 
+## Software Engineering Best Practices
+
+Here are some resources for best practices in software engineering.
+
+### Frontend
+
+- [GitHub - thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
+- [GitHub - bendc/frontend-guidelines: Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
+
+### HTML
+
+- [GitHub - hail2u/html-best-practices: For writing maintainable and scalable HTML documents](https://github.com/hail2u/html-best-practices)
+- [GitHub - h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.](https://github.com/h5bp/html5-boilerplate/)
+
+### JavaScript
+
+- [Github - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [GitHub - elsewhencode/project-guidelines: A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
+
+### ReactJS
+
+- [GitHub - alan2207/bulletproof-react: 🛡️ ⚛️ A simple, scalable, and powerful architecture](https://github.com/alan2207/bulletproof-react)
+
+### READMEs
+
+- [GitHub - othneildrew/Best-README-Template: An awesome README template to jumpstart your projects!](https://github.com/othneildrew/Best-README-Template)
 
 
 <!-- ## Section

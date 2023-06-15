@@ -72,7 +72,8 @@ The W3C Web Validator extension for Visual Studio Code allows you to validate HT
 
 
 
-## Section
+
+<!-- ## Section
 
 About this section. Optional. Keep this short and focus on the list.
 
@@ -80,13 +81,13 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 
 
+
 ## Another Section
 
 ### Subsection
 
 - [List item](http://example.com)
-- [List item](http://example.com)
-
+- [List item](http://example.com) -->
 
 ## Contribute
 

@@ -1,6 +1,6 @@
-# Awesome Olitreadwell [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-olitreadwell [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> a curate list of awesome stuff by @olitreadwell
+> A curated list of awesome stuff Oli Treadwell likes
 
 
 ## Contents
@@ -15,17 +15,6 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
-
-
-## Teaching
-
-### Books
-
-- [Teach Like a Champion](https://teachlikeachampion.com/)
-- [List item](http://example.com)
-
-
-
 
 
 ## Another Section

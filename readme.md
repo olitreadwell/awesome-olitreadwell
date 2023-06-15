@@ -5,8 +5,12 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [awesome-olitreadwell ](#awesome-olitreadwell-)
+  - [Contents](#contents)
+  - [Section](#section)
+  - [Another Section](#another-section)
+    - [Subsection](#subsection)
+  - [Contribute](#contribute)
 
 
 ## Section
@@ -27,4 +31,6 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+This project is not accepting contributions at this time. Please check back later.
+
+Feel free to fork this project and make your own. If you do, please link back to this project.

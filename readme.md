@@ -7,6 +7,8 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/olitreadwell/"><img alt="Connect with Oli Treadwell on LinkedIn" style="height:1.7rem;" src="https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-s?logo=linkedin&labelColor=blue&color=black"></a>
 
+<a target="_blank" href="https://www.github.com/olitreadwell/resume"><img alt="Oli Treadwell's Resume on GitHub" style="height:1.7rem;" src="https://img.shields.io/badge/-Resume-s?logo=github&labelColor=blue&color=black"></a>
+
 
 
 ## Table of Contents

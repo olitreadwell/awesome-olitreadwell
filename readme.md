@@ -3,9 +3,9 @@
 > A curated list of awesome stuff Oli Treadwell likes
 
 
-<a target="_blank" href="https://github.com/olitreadwell?direction=desc&sort=stars&tab=stars"><img alt="Oli Treadwell's Starred Repos" style="height:2rem;" src="https://img.shields.io/badge/Oli's_⭐️_Starred_Repos-s?logo=github&labelColor=blue&color=black"></a>
+<a target="_blank" href="https://github.com/olitreadwell?direction=desc&sort=stars&tab=stars"><img alt="Oli Treadwell's Starred Repos" style="height:1.7rem;" src="https://img.shields.io/badge/Oli's_⭐️_Starred_Repos-s?logo=github&labelColor=blue&color=black"></a>
 
-<a target="_blank" href="https://www.linkedin.com/in/olitreadwell/"><img alt="Oli Treadwell's Starred Repos" style="height:2rem;" src="https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-s?logo=linkedin&labelColor=blue&color=black"></a>
+<a target="_blank" href="https://www.linkedin.com/in/olitreadwell/"><img alt="Oli Treadwell's Starred Repos" style="height:1.7rem;" src="https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-s?logo=linkedin&labelColor=blue&color=black"></a>
 
 
 

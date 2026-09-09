@@ -13,6 +13,16 @@
 
 ## Table of Contents
 
+- [AI Coding Agents](#ai-coding-agents)
+- [Civic Tech](#civic-tech)
+- [Self-Hosting](#self-hosting)
+- [Privacy and Security](#privacy-and-security)
+- [React and TypeScript](#react-and-typescript)
+- [Accessibility](#accessibility)
+- [Photography](#photography)
+- [Wellington and Aotearoa](#wellington-and-aotearoa)
+- [Career and Job Hunting](#career-and-job-hunting)
+- [My Projects](#my-projects)
 - [Visual Studio Code](#visual-studio-code)
   - [Visual Studio Code Live Share](#visual-studio-code-live-share)
   - [Visual Studio Code Source Control Tab](#visual-studio-code-source-control-tab)
@@ -29,6 +39,76 @@
   - [ReactJS](#reactjs)
   - [READMEs](#readmes)
 - [Contribute](#contribute)
+
+## AI Coding Agents
+
+- [Orca](https://github.com/stablyai/orca) - my primary AI development environment for working with a fleet of parallel agents
+- [Windsurf](https://github.com/windsurf-ai) - my IDE
+- [Devin](https://github.com/CognitionAI) - Devin Desktop, my IDE
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - production-grade engineering skills for coding agents
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [github/spec-kit](https://github.com/github/spec-kit) - toolkit for spec-driven development
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - skill that cuts tokens by talking like a caveman
+
+## Civic Tech
+
+Tech for public good. Full list in [civic-tech.md](civic-tech.md).
+
+- [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns) - common patterns and anti-patterns for civic tech
+- [awesome-techforgood](https://github.com/TechforgoodCAST/awesome-techforgood) - projects, organisations, and tools for social-impact tech
+
+## Self-Hosting
+
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - free software network services you can host yourself
+- [ollama](https://github.com/ollama/ollama) - run LLMs locally
+
+## Privacy and Security
+
+- [uBlock Origin](https://github.com/gorhill/uBlock) - efficient blocker for Chromium and Firefox
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - curated list of privacy and security focused software
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 300+ tips for digital security and privacy
+- [headscale](https://github.com/juanfont/headscale) - self-hosted Tailscale control server
+- [ublacklist](https://github.com/iorate/ublacklist) - block sites from Google search results
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - opt out of data brokers
+
+## React and TypeScript
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - accessible components you can copy into your apps
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - open source UI component library
+
+## Accessibility
+
+- [axe-core](https://github.com/dequelabs/axe-core) - accessibility testing engine
+
+## Photography
+
+- [ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) - open source photography software
+
+## Wellington and Aotearoa
+
+- [WikiNewZealand/new-zealand-data](https://github.com/WikiNewZealand/new-zealand-data) - list of NZ datasets and APIs
+- [wellington-run-clubs](https://github.com/olitreadwell/wellington-run-clubs) - my list of Wellington run clubs
+- [wellington-art-galleries](https://github.com/olitreadwell/wellington-art-galleries) - my list of Wellington art galleries
+- [op-shop-directory](https://github.com/olitreadwell/op-shop-directory) - my directory of op shops
+- [kiwi-djs](https://github.com/olitreadwell/kiwi-djs) - my list of NZ DJs
+- [kiwi-fests](https://github.com/olitreadwell/kiwi-fests) - my list of NZ music festivals
+
+## Career and Job Hunting
+
+- [remote-job-sites](https://github.com/olitreadwell/remote-job-sites) - my list of remote job sites
+- [tech-for-good-job-sites](https://github.com/olitreadwell/tech-for-good-job-sites) - my list of tech for good job sites
+- [4-day-week-job-sites](https://github.com/olitreadwell/4-day-week-job-sites) - my list of 4 day week job sites
+- [employee-owned-job-sites](https://github.com/olitreadwell/employee-owned-job-sites) - my list of employee owned job sites
+- [resume](https://github.com/olitreadwell/resume) - my resume and common hiring questions
+
+## My Projects
+
+- [nz-tech-for-good](https://github.com/olitreadwell/nz-tech-for-good) - living directory of NZ tech for good
+- [react-performance-checklist](https://github.com/olitreadwell/react-performance-checklist) - fix slow React apps, one-page checklist
+- [price-to-impact](https://github.com/olitreadwell/price-to-impact) - Chrome extension that nudges you to donate while shopping
+- [nz-data-lab](https://github.com/olitreadwell/nz-data-lab) - NZ public data experiments
+- [photography](https://github.com/olitreadwell/photography) - my photography notes
+- [olitreadwell.github.io](https://github.com/olitreadwell/olitreadwell.github.io) - my personal website
 
 ## Visual Studio Code
 
@@ -110,23 +190,6 @@ Here are some resources for best practices in software engineering.
 ### READMEs
 
 - [GitHub - othneildrew/Best-README-Template: An awesome README template to jumpstart your projects!](https://github.com/othneildrew/Best-README-Template)
-
-
-<!-- ## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com) -->
 
 ## Contribute
 

@@ -28,3 +28,9 @@ Temporary Items
 
 # History files
 .history
+# Engine and hooks
+.venv/
+__pycache__/
+.pytest_cache/
+.state/
+lychee/out.md

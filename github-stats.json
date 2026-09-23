@@ -1,0 +1,235 @@
+{
+  "generated_at": "2026-09-23",
+  "repos": {
+    "ChromeDevTools/chrome-devtools-mcp": {
+      "stars": 52493,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "JuliusBrussee/caveman": {
+      "stars": 107420,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "MicrosoftDocs/live-share": {
+      "stars": 2385,
+      "pushed_at": "2026-08-03",
+      "archived": false
+    },
+    "TechforgoodCAST/awesome-techforgood": {
+      "stars": 202,
+      "pushed_at": "2024-01-11",
+      "archived": false
+    },
+    "WikiNewZealand/new-zealand-data": {
+      "stars": 311,
+      "pushed_at": "2023-05-17",
+      "archived": false
+    },
+    "addyosmani/agent-skills": {
+      "stars": 98512,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "alan2207/bulletproof-react": {
+      "stars": 35882,
+      "pushed_at": "2026-05-14",
+      "archived": false
+    },
+    "awesome-selfhosted/awesome-selfhosted": {
+      "stars": 321129,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "bendc/frontend-guidelines": {
+      "stars": 9120,
+      "pushed_at": "2023-12-30",
+      "archived": false
+    },
+    "codeforamerica/civic-tech-patterns": {
+      "stars": 207,
+      "pushed_at": "2021-05-07",
+      "archived": false
+    },
+    "dequelabs/axe-core": {
+      "stars": 7544,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "elsewhencode/project-guidelines": {
+      "stars": 29426,
+      "pushed_at": "2024-12-09",
+      "archived": false
+    },
+    "eslint/eslint": {
+      "stars": 27522,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "github/spec-kit": {
+      "stars": 138442,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "gorhill/uBlock": {
+      "stars": 68060,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "h5bp/html5-boilerplate": {
+      "stars": 57628,
+      "pushed_at": "2026-09-14",
+      "archived": false
+    },
+    "hail2u/html-best-practices": {
+      "stars": 4066,
+      "pushed_at": "2025-03-28",
+      "archived": false
+    },
+    "ibaaj/awesome-OpenSourcePhotography": {
+      "stars": 665,
+      "pushed_at": "2026-04-19",
+      "archived": false
+    },
+    "iorate/ublacklist": {
+      "stars": 6640,
+      "pushed_at": "2026-09-20",
+      "archived": false
+    },
+    "juanfont/headscale": {
+      "stars": 44053,
+      "pushed_at": "2026-09-17",
+      "archived": false
+    },
+    "lissy93/awesome-privacy": {
+      "stars": 9895,
+      "pushed_at": "2026-09-16",
+      "archived": false
+    },
+    "lissy93/personal-security-checklist": {
+      "stars": 22371,
+      "pushed_at": "2026-09-07",
+      "archived": false
+    },
+    "olitreadwell/4-day-week-job-sites": {
+      "stars": 0,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "olitreadwell/employee-owned-job-sites": {
+      "stars": 0,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "olitreadwell/kiwi-djs": {
+      "stars": 0,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "olitreadwell/kiwi-fests": {
+      "stars": 1,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "olitreadwell/nz-data-lab": {
+      "stars": 0,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "olitreadwell/nz-tech-for-good": {
+      "stars": 2,
+      "pushed_at": "2026-09-20",
+      "archived": false
+    },
+    "olitreadwell/olitreadwell.github.io": {
+      "stars": 1,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "olitreadwell/op-shop-directory": {
+      "stars": 0,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "olitreadwell/photography": {
+      "stars": 0,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "olitreadwell/price-to-impact": {
+      "stars": 1,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "olitreadwell/react-performance-checklist": {
+      "stars": 0,
+      "pushed_at": "2026-09-20",
+      "archived": false
+    },
+    "olitreadwell/remote-job-sites": {
+      "stars": 0,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "olitreadwell/resume": {
+      "stars": 2,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "olitreadwell/tech-for-good-job-sites": {
+      "stars": 0,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "olitreadwell/wellington-art-galleries": {
+      "stars": 0,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "olitreadwell/wellington-run-clubs": {
+      "stars": 0,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "ollama/ollama": {
+      "stars": 181500,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "othneildrew/Best-README-Template": {
+      "stars": 16374,
+      "pushed_at": "2026-04-18",
+      "archived": false
+    },
+    "radix-ui/primitives": {
+      "stars": 19315,
+      "pushed_at": "2026-08-08",
+      "archived": false
+    },
+    "ryanmcdermott/clean-code-javascript": {
+      "stars": 94752,
+      "pushed_at": "2024-07-29",
+      "archived": false
+    },
+    "shadcn-ui/ui": {
+      "stars": 124443,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "stablyai/orca": {
+      "stars": 75875,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "thedaviddias/Front-End-Checklist": {
+      "stars": 74233,
+      "pushed_at": "2026-08-14",
+      "archived": false
+    },
+    "yaelwrites/Big-Ass-Data-Broker-Opt-Out-List": {
+      "stars": 6867,
+      "pushed_at": "2026-08-28",
+      "archived": false
+    }
+  }
+}

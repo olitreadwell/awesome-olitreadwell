@@ -1,0 +1,48 @@
+# Configuration for this list. The engine reads it; the hooks and the weekly
+# jobs read it.
+
+name = "Awesome Olitreadwell"
+repo_slug = "awesome-olitreadwell"
+readme = "readme.md"
+
+sections = [
+    "AI Coding Agents",
+    "Civic Tech",
+    "Self-Hosting",
+    "Privacy and Security",
+    "React and TypeScript",
+    "Accessibility",
+    "Photography",
+    "Wellington and Aotearoa",
+    "Career and Job Hunting",
+    "My Projects",
+    "Visual Studio Code",
+    "Software Engineering Best Practices",
+]
+
+[site]
+enabled = false
+
+[links]
+archive = "off"
+exclude = []
+allowlist = []
+
+# This list does not use tags: an empty table says so.
+[tags]
+
+[github]
+# Every GitHub link carries stars and a last-push date. make stats fetches them,
+# make stats-check verifies them without the network.
+stats = true
+max_age_days = 30
+snapshot = "github-stats.json"
+
+[sources]
+# Upstream lists to mine for candidates. make sources writes a report; a human
+# writes every entry.
+lists = [
+    "https://raw.githubusercontent.com/public-apis/public-apis/master/README.md",
+]
+keywords = ["wellington", "new zealand", "aotearoa", "wikipedia", "photography"]
+report = "reports/source-candidates.md"

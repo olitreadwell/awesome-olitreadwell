@@ -1,0 +1,12 @@
+# Link checking for README.md. Cached, so a weekly run only re-checks what has
+# aged out, and tolerant of rate limiting, which is common on government hosts.
+
+cache = true
+max_cache_age = "6d"
+max_retries = 2
+retry_wait_time = 3
+timeout = 20
+max_concurrency = 8
+accept = ["200..=204", "403", "429"]
+max_redirects = 10
+exclude_path = [".git", "site", "node_modules", ".venv"]

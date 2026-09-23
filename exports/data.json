@@ -10,9 +10,11 @@
         {
           "name": "Orca",
           "url": "https://github.com/stablyai/orca",
-          "description": "My primary AI development environment for working with a fleet of parallel agents. - ★ 75,875 stars, last push 2026-09-23.",
+          "description": "My primary AI development environment for working with a fleet of parallel agents.",
           "tags": [],
           "group": null,
+          "stars": 75875,
+          "last_push": "2026-09-23",
           "line": 45
         },
         {
@@ -21,6 +23,8 @@
           "description": "My IDE.",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 46
         },
         {
@@ -29,38 +33,48 @@
           "description": "My IDE.",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 47
         },
         {
           "name": "addyosmani/agent-skills",
           "url": "https://github.com/addyosmani/agent-skills",
-          "description": "Production-grade engineering skills for coding agents. - ★ 98,512 stars, last push 2026-09-23.",
+          "description": "Production-grade engineering skills for coding agents.",
           "tags": [],
           "group": null,
+          "stars": 98512,
+          "last_push": "2026-09-23",
           "line": 48
         },
         {
           "name": "ChromeDevTools/chrome-devtools-mcp",
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description": "Chrome DevTools for coding agents. - ★ 52,493 stars, last push 2026-09-23.",
+          "description": "Chrome DevTools for coding agents.",
           "tags": [],
           "group": null,
+          "stars": 52493,
+          "last_push": "2026-09-23",
           "line": 49
         },
         {
           "name": "GitHub/spec-kit",
           "url": "https://github.com/github/spec-kit",
-          "description": "Toolkit for spec-driven development. - ★ 138,442 stars, last push 2026-09-23.",
+          "description": "Toolkit for spec-driven development.",
           "tags": [],
           "group": null,
+          "stars": 138442,
+          "last_push": "2026-09-23",
           "line": 50
         },
         {
           "name": "JuliusBrussee/caveman",
           "url": "https://github.com/JuliusBrussee/caveman",
-          "description": "Skill that cuts tokens by talking like a caveman. - ★ 107,420 stars, last push 2026-09-22.",
+          "description": "Skill that cuts tokens by talking like a caveman.",
           "tags": [],
           "group": null,
+          "stars": 107420,
+          "last_push": "2026-09-22",
           "line": 51
         }
       ]
@@ -71,17 +85,21 @@
         {
           "name": "civic-tech-patterns",
           "url": "https://github.com/codeforamerica/civic-tech-patterns",
-          "description": "Common patterns and anti-patterns for civic tech. - ★ 207 stars, last push 2021-05-07.",
+          "description": "Common patterns and anti-patterns for civic tech.",
           "tags": [],
           "group": null,
+          "stars": 207,
+          "last_push": "2021-05-07",
           "line": 57
         },
         {
           "name": "awesome-techforgood",
           "url": "https://github.com/TechforgoodCAST/awesome-techforgood",
-          "description": "Projects, organisations, and tools for social-impact tech. - ★ 202 stars, last push 2024-01-11.",
+          "description": "Projects, organisations, and tools for social-impact tech.",
           "tags": [],
           "group": null,
+          "stars": 202,
+          "last_push": "2024-01-11",
           "line": 58
         }
       ]
@@ -92,17 +110,21 @@
         {
           "name": "awesome-selfhosted",
           "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-          "description": "Free software network services you can host yourself. - ★ 321,129 stars, last push 2026-09-21.",
+          "description": "Free software network services you can host yourself.",
           "tags": [],
           "group": null,
+          "stars": 321129,
+          "last_push": "2026-09-21",
           "line": 62
         },
         {
           "name": "ollama",
           "url": "https://github.com/ollama/ollama",
-          "description": "Run LLMs locally. - ★ 181,500 stars, last push 2026-09-23.",
+          "description": "Run LLMs locally.",
           "tags": [],
           "group": null,
+          "stars": 181500,
+          "last_push": "2026-09-23",
           "line": 63
         }
       ]
@@ -113,49 +135,61 @@
         {
           "name": "uBlock Origin",
           "url": "https://github.com/gorhill/uBlock",
-          "description": "Efficient blocker for Chromium and Firefox. - ★ 68,060 stars, last push 2026-09-22.",
+          "description": "Efficient blocker for Chromium and Firefox.",
           "tags": [],
           "group": null,
+          "stars": 68060,
+          "last_push": "2026-09-22",
           "line": 67
         },
         {
           "name": "lissy93/awesome-privacy",
           "url": "https://github.com/lissy93/awesome-privacy",
-          "description": "Curated list of privacy and security focused software. - ★ 9,895 stars, last push 2026-09-16.",
+          "description": "Curated list of privacy and security focused software.",
           "tags": [],
           "group": null,
+          "stars": 9895,
+          "last_push": "2026-09-16",
           "line": 68
         },
         {
           "name": "lissy93/personal-security-checklist",
           "url": "https://github.com/lissy93/personal-security-checklist",
-          "description": "300+ Tips for digital security and privacy. - ★ 22,371 stars, last push 2026-09-07.",
+          "description": "300+ Tips for digital security and privacy.",
           "tags": [],
           "group": null,
+          "stars": 22371,
+          "last_push": "2026-09-07",
           "line": 69
         },
         {
           "name": "headscale",
           "url": "https://github.com/juanfont/headscale",
-          "description": "Self-hosted Tailscale control server. - ★ 44,053 stars, last push 2026-09-17.",
+          "description": "Self-hosted Tailscale control server.",
           "tags": [],
           "group": null,
+          "stars": 44053,
+          "last_push": "2026-09-17",
           "line": 70
         },
         {
           "name": "ublacklist",
           "url": "https://github.com/iorate/ublacklist",
-          "description": "Block sites from Google search results. - ★ 6,640 stars, last push 2026-09-20.",
+          "description": "Block sites from Google search results.",
           "tags": [],
           "group": null,
+          "stars": 6640,
+          "last_push": "2026-09-20",
           "line": 71
         },
         {
           "name": "yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
           "url": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
-          "description": "Opt out of data brokers. - ★ 6,867 stars, last push 2026-08-28.",
+          "description": "Opt out of data brokers.",
           "tags": [],
           "group": null,
+          "stars": 6867,
+          "last_push": "2026-08-28",
           "line": 72
         }
       ]
@@ -166,19 +200,23 @@
         {
           "name": "shadcn-ui/ui",
           "url": "https://github.com/shadcn-ui/ui",
-          "description": "Accessible components you can copy into your apps. - ★ 124,443 stars, last push 2026-09-21.",
+          "description": "Accessible components you can copy into your apps.",
           "tags": [],
           "group": null,
+          "stars": 124443,
+          "last_push": "2026-09-21",
           "line": 76
         },
         {
           "name": "radix-ui/primitives",
           "url": "https://github.com/radix-ui/primitives",
-          "description": "source UI component library. - ★ 19,315 stars, last push 2026-08-08.",
+          "description": "source UI component library.",
           "tags": [
             "Open"
           ],
           "group": null,
+          "stars": 19315,
+          "last_push": "2026-08-08",
           "line": 77
         }
       ]
@@ -189,9 +227,11 @@
         {
           "name": "axe-core",
           "url": "https://github.com/dequelabs/axe-core",
-          "description": "Accessibility testing engine. - ★ 7,544 stars, last push 2026-09-22.",
+          "description": "Accessibility testing engine.",
           "tags": [],
           "group": null,
+          "stars": 7544,
+          "last_push": "2026-09-22",
           "line": 81
         }
       ]
@@ -202,11 +242,13 @@
         {
           "name": "ibaaj/awesome-OpenSourcePhotography",
           "url": "https://github.com/ibaaj/awesome-OpenSourcePhotography",
-          "description": "source photography software. - ★ 665 stars, last push 2026-04-19.",
+          "description": "source photography software.",
           "tags": [
             "Open"
           ],
           "group": null,
+          "stars": 665,
+          "last_push": "2026-04-19",
           "line": 85
         }
       ]
@@ -217,49 +259,61 @@
         {
           "name": "WikiNewZealand/new-zealand-data",
           "url": "https://github.com/WikiNewZealand/new-zealand-data",
-          "description": "List of NZ datasets and APIs. - ★ 311 stars, last push 2023-05-17.",
+          "description": "List of NZ datasets and APIs.",
           "tags": [],
           "group": null,
+          "stars": 311,
+          "last_push": "2023-05-17",
           "line": 89
         },
         {
           "name": "wellington-run-clubs",
           "url": "https://github.com/olitreadwell/wellington-run-clubs",
-          "description": "My list of Wellington run clubs. - ★ 0 stars, last push 2026-09-09.",
+          "description": "My list of Wellington run clubs.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-09",
           "line": 90
         },
         {
           "name": "wellington-art-galleries",
           "url": "https://github.com/olitreadwell/wellington-art-galleries",
-          "description": "My list of Wellington art galleries. - ★ 0 stars, last push 2026-09-09.",
+          "description": "My list of Wellington art galleries.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-09",
           "line": 91
         },
         {
           "name": "op-shop-directory",
           "url": "https://github.com/olitreadwell/op-shop-directory",
-          "description": "My directory of op shops. - ★ 0 stars, last push 2026-09-09.",
+          "description": "My directory of op shops.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-09",
           "line": 92
         },
         {
           "name": "kiwi-djs",
           "url": "https://github.com/olitreadwell/kiwi-djs",
-          "description": "My list of NZ DJs. - ★ 0 stars, last push 2026-09-09.",
+          "description": "My list of NZ DJs.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-09",
           "line": 93
         },
         {
           "name": "kiwi-fests",
           "url": "https://github.com/olitreadwell/kiwi-fests",
-          "description": "My list of NZ music festivals. - ★ 1 star, last push 2026-09-09.",
+          "description": "My list of NZ music festivals.",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": "2026-09-09",
           "line": 94
         }
       ]
@@ -270,41 +324,51 @@
         {
           "name": "remote-job-sites",
           "url": "https://github.com/olitreadwell/remote-job-sites",
-          "description": "My list of remote job sites. - ★ 0 stars, last push 2026-09-23.",
+          "description": "My list of remote job sites.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-23",
           "line": 98
         },
         {
           "name": "tech-for-good-job-sites",
           "url": "https://github.com/olitreadwell/tech-for-good-job-sites",
-          "description": "My list of tech for good job sites. - ★ 0 stars, last push 2026-09-23.",
+          "description": "My list of tech for good job sites.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-23",
           "line": 99
         },
         {
           "name": "4-day-week-job-sites",
           "url": "https://github.com/olitreadwell/4-day-week-job-sites",
-          "description": "My list of 4 day week job sites. - ★ 0 stars, last push 2026-09-23.",
+          "description": "My list of 4 day week job sites.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-23",
           "line": 100
         },
         {
           "name": "employee-owned-job-sites",
           "url": "https://github.com/olitreadwell/employee-owned-job-sites",
-          "description": "My list of employee owned job sites. - ★ 0 stars, last push 2026-09-23.",
+          "description": "My list of employee owned job sites.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-23",
           "line": 101
         },
         {
           "name": "resume",
           "url": "https://github.com/olitreadwell/resume",
-          "description": "My resume and common hiring questions. - ★ 2 stars, last push 2026-09-09.",
+          "description": "My resume and common hiring questions.",
           "tags": [],
           "group": null,
+          "stars": 2,
+          "last_push": "2026-09-09",
           "line": 102
         }
       ]
@@ -315,49 +379,61 @@
         {
           "name": "nz-tech-for-good",
           "url": "https://github.com/olitreadwell/nz-tech-for-good",
-          "description": "Living directory of NZ tech for good. - ★ 2 stars, last push 2026-09-20.",
+          "description": "Living directory of NZ tech for good.",
           "tags": [],
           "group": null,
+          "stars": 2,
+          "last_push": "2026-09-20",
           "line": 106
         },
         {
           "name": "react-performance-checklist",
           "url": "https://github.com/olitreadwell/react-performance-checklist",
-          "description": "Fix slow React apps, one-page checklist. - ★ 0 stars, last push 2026-09-20.",
+          "description": "Fix slow React apps, one-page checklist.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-20",
           "line": 107
         },
         {
           "name": "price-to-impact",
           "url": "https://github.com/olitreadwell/price-to-impact",
-          "description": "Chrome extension that nudges you to donate while shopping. - ★ 1 star, last push 2026-09-21.",
+          "description": "Chrome extension that nudges you to donate while shopping.",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": "2026-09-21",
           "line": 108
         },
         {
           "name": "nz-data-lab",
           "url": "https://github.com/olitreadwell/nz-data-lab",
-          "description": "NZ public data experiments. - ★ 0 stars, last push 2026-09-21.",
+          "description": "NZ public data experiments.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-21",
           "line": 109
         },
         {
           "name": "photography",
           "url": "https://github.com/olitreadwell/photography",
-          "description": "My photography notes. - ★ 0 stars, last push 2026-09-09.",
+          "description": "My photography notes.",
           "tags": [],
           "group": null,
+          "stars": 0,
+          "last_push": "2026-09-09",
           "line": 110
         },
         {
           "name": "olitreadwell.github.io",
           "url": "https://github.com/olitreadwell/olitreadwell.github.io",
-          "description": "My personal website. - ★ 1 star, last push 2026-09-09.",
+          "description": "My personal website.",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": "2026-09-09",
           "line": 111
         }
       ]
@@ -371,6 +447,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 119
         },
         {
@@ -379,6 +457,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 120
         },
         {
@@ -387,6 +467,8 @@
           "description": "★ 2,385 stars, last push 2026-08-03.",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 121
         },
         {
@@ -395,6 +477,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 127
         },
         {
@@ -403,6 +487,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 135
         },
         {
@@ -411,6 +497,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 141
         },
         {
@@ -419,6 +507,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 142
         },
         {
@@ -427,6 +517,8 @@
           "description": "★ 27,522 stars, last push 2026-09-22.",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 143
         },
         {
@@ -435,6 +527,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 144
         },
         {
@@ -443,6 +537,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 150
         },
         {
@@ -451,6 +547,8 @@
           "description": "The official Prettier website.",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 156
         },
         {
@@ -459,6 +557,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 157
         },
         {
@@ -467,6 +567,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 158
         },
         {
@@ -475,6 +577,8 @@
           "description": "",
           "tags": [],
           "group": null,
+          "stars": null,
+          "last_push": null,
           "line": 164
         }
       ]
@@ -485,65 +589,81 @@
         {
           "name": "thedaviddias/Front-End-Checklist",
           "url": "https://github.com/thedaviddias/Front-End-Checklist",
-          "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers. - ★ 74,233 stars, last push 2026-08-14.",
+          "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers.",
           "tags": [],
           "group": null,
+          "stars": 74233,
+          "last_push": "2026-08-14",
           "line": 173
         },
         {
           "name": "bendc/frontend-guidelines",
           "url": "https://github.com/bendc/frontend-guidelines",
-          "description": "Some HTML, CSS and JS best practices. - ★ 9,120 stars, last push 2023-12-30.",
+          "description": "Some HTML, CSS and JS best practices.",
           "tags": [],
           "group": null,
+          "stars": 9120,
+          "last_push": "2023-12-30",
           "line": 174
         },
         {
           "name": "hail2u/html-best-practices",
           "url": "https://github.com/hail2u/html-best-practices",
-          "description": "For writing maintainable and scalable HTML documents. - ★ 4,066 stars, last push 2025-03-28.",
+          "description": "For writing maintainable and scalable HTML documents.",
           "tags": [],
           "group": null,
+          "stars": 4066,
+          "last_push": "2025-03-28",
           "line": 178
         },
         {
           "name": "h5bp/html5-boilerplate",
           "url": "https://github.com/h5bp/html5-boilerplate/",
-          "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites. - ★ 57,628 stars, last push 2026-09-14.",
+          "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
           "tags": [],
           "group": null,
+          "stars": 57628,
+          "last_push": "2026-09-14",
           "line": 179
         },
         {
           "name": "ryanmcdermott/clean-code-javascript",
           "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-          "description": "Clean Code concepts adapted for JavaScript. - ★ 94,752 stars, last push 2024-07-29.",
+          "description": "Clean Code concepts adapted for JavaScript.",
           "tags": [],
           "group": null,
+          "stars": 94752,
+          "last_push": "2024-07-29",
           "line": 183
         },
         {
           "name": "elsewhencode/project-guidelines",
           "url": "https://github.com/elsewhencode/project-guidelines",
-          "description": "A set of best practices for JavaScript projects. - ★ 29,426 stars, last push 2024-12-09.",
+          "description": "A set of best practices for JavaScript projects.",
           "tags": [],
           "group": null,
+          "stars": 29426,
+          "last_push": "2024-12-09",
           "line": 184
         },
         {
           "name": "alan2207/bulletproof-react",
           "url": "https://github.com/alan2207/bulletproof-react",
-          "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture. - ★ 35,882 stars, last push 2026-05-14.",
+          "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture.",
           "tags": [],
           "group": null,
+          "stars": 35882,
+          "last_push": "2026-05-14",
           "line": 188
         },
         {
           "name": "othneildrew/Best-README-Template",
           "url": "https://github.com/othneildrew/Best-README-Template",
-          "description": "An awesome README template to jumpstart your projects! - ★ 16,374 stars, last push 2026-04-18.",
+          "description": "An awesome README template to jumpstart your projects!",
           "tags": [],
           "group": null,
+          "stars": 16374,
+          "last_push": "2026-04-18",
           "line": 192
         }
       ]

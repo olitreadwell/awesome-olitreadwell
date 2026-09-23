@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A curated list of the things Oli Treadwell likes, checked by the awesome-list engine."
 requires-python = ">=3.12"
 dependencies = [
-    "awesome-list @ git+https://github.com/olitreadwell/awesome-list-template@20ba4fc",
+    "awesome-list @ git+https://github.com/olitreadwell/awesome-list-template@1b5dbd3",
 ]
 
 [dependency-groups]

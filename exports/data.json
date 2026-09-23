@@ -1,0 +1,556 @@
+{
+  "name": "Awesome Olitreadwell",
+  "repo_slug": "awesome-olitreadwell",
+  "generated_at": "2026-09-23",
+  "entry_count": 60,
+  "sections": [
+    {
+      "name": "AI Coding Agents",
+      "entries": [
+        {
+          "name": "Orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "My primary AI development environment for working with a fleet of parallel agents. - ★ 75,875 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "line": 45
+        },
+        {
+          "name": "Windsurf",
+          "url": "https://github.com/windsurf-ai",
+          "description": "My IDE.",
+          "tags": [],
+          "group": null,
+          "line": 46
+        },
+        {
+          "name": "Devin",
+          "url": "https://github.com/CognitionAI",
+          "description": "My IDE.",
+          "tags": [],
+          "group": null,
+          "line": 47
+        },
+        {
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for coding agents. - ★ 98,512 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "line": 48
+        },
+        {
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents. - ★ 52,493 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "line": 49
+        },
+        {
+          "name": "GitHub/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "Toolkit for spec-driven development. - ★ 138,442 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "line": 50
+        },
+        {
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "Skill that cuts tokens by talking like a caveman. - ★ 107,420 stars, last push 2026-09-22.",
+          "tags": [],
+          "group": null,
+          "line": 51
+        }
+      ]
+    },
+    {
+      "name": "Civic Tech",
+      "entries": [
+        {
+          "name": "civic-tech-patterns",
+          "url": "https://github.com/codeforamerica/civic-tech-patterns",
+          "description": "Common patterns and anti-patterns for civic tech. - ★ 207 stars, last push 2021-05-07.",
+          "tags": [],
+          "group": null,
+          "line": 57
+        },
+        {
+          "name": "awesome-techforgood",
+          "url": "https://github.com/TechforgoodCAST/awesome-techforgood",
+          "description": "Projects, organisations, and tools for social-impact tech. - ★ 202 stars, last push 2024-01-11.",
+          "tags": [],
+          "group": null,
+          "line": 58
+        }
+      ]
+    },
+    {
+      "name": "Self-Hosting",
+      "entries": [
+        {
+          "name": "awesome-selfhosted",
+          "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "description": "Free software network services you can host yourself. - ★ 321,129 stars, last push 2026-09-21.",
+          "tags": [],
+          "group": null,
+          "line": 62
+        },
+        {
+          "name": "ollama",
+          "url": "https://github.com/ollama/ollama",
+          "description": "Run LLMs locally. - ★ 181,500 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "line": 63
+        }
+      ]
+    },
+    {
+      "name": "Privacy and Security",
+      "entries": [
+        {
+          "name": "uBlock Origin",
+          "url": "https://github.com/gorhill/uBlock",
+          "description": "Efficient blocker for Chromium and Firefox. - ★ 68,060 stars, last push 2026-09-22.",
+          "tags": [],
+          "group": null,
+          "line": 67
+        },
+        {
+          "name": "lissy93/awesome-privacy",
+          "url": "https://github.com/lissy93/awesome-privacy",
+          "description": "Curated list of privacy and security focused software. - ★ 9,895 stars, last push 2026-09-16.",
+          "tags": [],
+          "group": null,
+          "line": 68
+        },
+        {
+          "name": "lissy93/personal-security-checklist",
+          "url": "https://github.com/lissy93/personal-security-checklist",
+          "description": "300+ Tips for digital security and privacy. - ★ 22,371 stars, last push 2026-09-07.",
+          "tags": [],
+          "group": null,
+          "line": 69
+        },
+        {
+          "name": "headscale",
+          "url": "https://github.com/juanfont/headscale",
+          "description": "Self-hosted Tailscale control server. - ★ 44,053 stars, last push 2026-09-17.",
+          "tags": [],
+          "group": null,
+          "line": 70
+        },
+        {
+          "name": "ublacklist",
+          "url": "https://github.com/iorate/ublacklist",
+          "description": "Block sites from Google search results. - ★ 6,640 stars, last push 2026-09-20.",
+          "tags": [],
+          "group": null,
+          "line": 71
+        },
+        {
+          "name": "yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
+          "url": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
+          "description": "Opt out of data brokers. - ★ 6,867 stars, last push 2026-08-28.",
+          "tags": [],
+          "group": null,
+          "line": 72
+        }
+      ]
+    },
+    {
+      "name": "React and TypeScript",
+      "entries": [
+        {
+          "name": "shadcn-ui/ui",
+          "url": "https://github.com/shadcn-ui/ui",
+          "description": "Accessible components you can copy into your apps. - ★ 124,443 stars, last push 2026-09-21.",
+          "tags": [],
+          "group": null,
+          "line": 76
+        },
+        {
+          "name": "radix-ui/primitives",
+          "url": "https://github.com/radix-ui/primitives",
+          "description": "source UI component library. - ★ 19,315 stars, last push 2026-08-08.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "line": 77
+        }
+      ]
+    },
+    {
+      "name": "Accessibility",
+      "entries": [
+        {
+          "name": "axe-core",
+          "url": "https://github.com/dequelabs/axe-core",
+          "description": "Accessibility testing engine. - ★ 7,544 stars, last push 2026-09-22.",
+          "tags": [],
+          "group": null,
+          "line": 81
+        }
+      ]
+    },
+    {
+      "name": "Photography",
+      "entries": [
+        {
+          "name": "ibaaj/awesome-OpenSourcePhotography",
+          "url": "https://github.com/ibaaj/awesome-OpenSourcePhotography",
+          "description": "source photography software. - ★ 665 stars, last push 2026-04-19.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "line": 85
+        }
+      ]
+    },
+    {
+      "name": "Wellington and Aotearoa",
+      "entries": [
+        {
+          "name": "WikiNewZealand/new-zealand-data",
+          "url": "https://github.com/WikiNewZealand/new-zealand-data",
+          "description": "List of NZ datasets and APIs. - ★ 311 stars, last push 2023-05-17.",
+          "tags": [],
+          "group": null,
+          "line": 89
+        },
+        {
+          "name": "wellington-run-clubs",
+          "url": "https://github.com/olitreadwell/wellington-run-clubs",
+          "description": "My list of Wellington run clubs. - ★ 0 stars, last push 2026-09-09.",
+          "tags": [],
+          "group": null,
+          "line": 90
+        },
+        {
+          "name": "wellington-art-galleries",
+          "url": "https://github.com/olitreadwell/wellington-art-galleries",
+          "description": "My list of Wellington art galleries. - ★ 0 stars, last push 2026-09-09.",
+          "tags": [],
+          "group": null,
+          "line": 91
+        },
+        {
+          "name": "op-shop-directory",
+          "url": "https://github.com/olitreadwell/op-shop-directory",
+          "description": "My directory of op shops. - ★ 0 stars, last push 2026-09-09.",
+          "tags": [],
+          "group": null,
+          "line": 92
+        },
+        {
+          "name": "kiwi-djs",
+          "url": "https://github.com/olitreadwell/kiwi-djs",
+          "description": "My list of NZ DJs. - ★ 0 stars, last push 2026-09-09.",
+          "tags": [],
+          "group": null,
+          "line": 93
+        },
+        {
+          "name": "kiwi-fests",
+          "url": "https://github.com/olitreadwell/kiwi-fests",
+          "description": "My list of NZ music festivals. - ★ 1 star, last push 2026-09-09.",
+          "tags": [],
+          "group": null,
+          "line": 94
+        }
+      ]
+    },
+    {
+      "name": "Career and Job Hunting",
+      "entries": [
+        {
+          "name": "remote-job-sites",
+          "url": "https://github.com/olitreadwell/remote-job-sites",
+          "description": "My list of remote job sites. - ★ 0 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "line": 98
+        },
+        {
+          "name": "tech-for-good-job-sites",
+          "url": "https://github.com/olitreadwell/tech-for-good-job-sites",
+          "description": "My list of tech for good job sites. - ★ 0 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "line": 99
+        },
+        {
+          "name": "4-day-week-job-sites",
+          "url": "https://github.com/olitreadwell/4-day-week-job-sites",
+          "description": "My list of 4 day week job sites. - ★ 0 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "line": 100
+        },
+        {
+          "name": "employee-owned-job-sites",
+          "url": "https://github.com/olitreadwell/employee-owned-job-sites",
+          "description": "My list of employee owned job sites. - ★ 0 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "line": 101
+        },
+        {
+          "name": "resume",
+          "url": "https://github.com/olitreadwell/resume",
+          "description": "My resume and common hiring questions. - ★ 2 stars, last push 2026-09-09.",
+          "tags": [],
+          "group": null,
+          "line": 102
+        }
+      ]
+    },
+    {
+      "name": "My Projects",
+      "entries": [
+        {
+          "name": "nz-tech-for-good",
+          "url": "https://github.com/olitreadwell/nz-tech-for-good",
+          "description": "Living directory of NZ tech for good. - ★ 2 stars, last push 2026-09-20.",
+          "tags": [],
+          "group": null,
+          "line": 106
+        },
+        {
+          "name": "react-performance-checklist",
+          "url": "https://github.com/olitreadwell/react-performance-checklist",
+          "description": "Fix slow React apps, one-page checklist. - ★ 0 stars, last push 2026-09-20.",
+          "tags": [],
+          "group": null,
+          "line": 107
+        },
+        {
+          "name": "price-to-impact",
+          "url": "https://github.com/olitreadwell/price-to-impact",
+          "description": "Chrome extension that nudges you to donate while shopping. - ★ 1 star, last push 2026-09-21.",
+          "tags": [],
+          "group": null,
+          "line": 108
+        },
+        {
+          "name": "nz-data-lab",
+          "url": "https://github.com/olitreadwell/nz-data-lab",
+          "description": "NZ public data experiments. - ★ 0 stars, last push 2026-09-21.",
+          "tags": [],
+          "group": null,
+          "line": 109
+        },
+        {
+          "name": "photography",
+          "url": "https://github.com/olitreadwell/photography",
+          "description": "My photography notes. - ★ 0 stars, last push 2026-09-09.",
+          "tags": [],
+          "group": null,
+          "line": 110
+        },
+        {
+          "name": "olitreadwell.github.io",
+          "url": "https://github.com/olitreadwell/olitreadwell.github.io",
+          "description": "My personal website. - ★ 1 star, last push 2026-09-09.",
+          "tags": [],
+          "group": null,
+          "line": 111
+        }
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "entries": [
+        {
+          "name": "Microsoft Visual Studio Code Live Share Extension",
+          "url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 119
+        },
+        {
+          "name": "Install and sign in to Live Share in Visual Studio Code",
+          "url": "https://learn.microsoft.com/en-us/visualstudio/liveshare/use/install-live-share-visual-studio-code",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 120
+        },
+        {
+          "name": "LiveShare Docs GitHub Repo: MicrosoftDocs/live-share",
+          "url": "https://github.com/MicrosoftDocs/live-share",
+          "description": "★ 2,385 stars, last push 2026-08-03.",
+          "tags": [],
+          "group": null,
+          "line": 121
+        },
+        {
+          "name": "Source Control with Git in Visual Studio Code",
+          "url": "https://code.visualstudio.com/docs/editor/versioncontrol",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 127
+        },
+        {
+          "name": "axe Accessibility Linter - Visual Studio Marketplace",
+          "url": "https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 135
+        },
+        {
+          "name": "ESLint - Visual Studio Marketplace",
+          "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 141
+        },
+        {
+          "name": "ESLint - Pluggable JavaScript linter- Official Website",
+          "url": "https://eslint.org/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 142
+        },
+        {
+          "name": "ESLint - Pluggable JavaScript linter - GitHub Repo",
+          "url": "https://github.com/eslint/eslint",
+          "description": "★ 27,522 stars, last push 2026-09-22.",
+          "tags": [],
+          "group": null,
+          "line": 143
+        },
+        {
+          "name": "How To Lint and Format Code with ESLint in Visual Studio Code | DigitalOcean",
+          "url": "https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 144
+        },
+        {
+          "name": "Live Preview - Visual Studio Marketplace",
+          "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 150
+        },
+        {
+          "name": "Prettier",
+          "url": "https://prettier.io/",
+          "description": "The official Prettier website.",
+          "tags": [],
+          "group": null,
+          "line": 156
+        },
+        {
+          "name": "Prettier - Code formatter - Visual Studio Marketplace",
+          "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 157
+        },
+        {
+          "name": "How To Format Code with Prettier in Visual Studio Code | DigitalOcean",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 158
+        },
+        {
+          "name": "W3C Web Validator - Visual Studio Marketplace",
+          "url": "https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "line": 164
+        }
+      ]
+    },
+    {
+      "name": "Software Engineering Best Practices",
+      "entries": [
+        {
+          "name": "thedaviddias/Front-End-Checklist",
+          "url": "https://github.com/thedaviddias/Front-End-Checklist",
+          "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers. - ★ 74,233 stars, last push 2026-08-14.",
+          "tags": [],
+          "group": null,
+          "line": 173
+        },
+        {
+          "name": "bendc/frontend-guidelines",
+          "url": "https://github.com/bendc/frontend-guidelines",
+          "description": "Some HTML, CSS and JS best practices. - ★ 9,120 stars, last push 2023-12-30.",
+          "tags": [],
+          "group": null,
+          "line": 174
+        },
+        {
+          "name": "hail2u/html-best-practices",
+          "url": "https://github.com/hail2u/html-best-practices",
+          "description": "For writing maintainable and scalable HTML documents. - ★ 4,066 stars, last push 2025-03-28.",
+          "tags": [],
+          "group": null,
+          "line": 178
+        },
+        {
+          "name": "h5bp/html5-boilerplate",
+          "url": "https://github.com/h5bp/html5-boilerplate/",
+          "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites. - ★ 57,628 stars, last push 2026-09-14.",
+          "tags": [],
+          "group": null,
+          "line": 179
+        },
+        {
+          "name": "ryanmcdermott/clean-code-javascript",
+          "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+          "description": "Clean Code concepts adapted for JavaScript. - ★ 94,752 stars, last push 2024-07-29.",
+          "tags": [],
+          "group": null,
+          "line": 183
+        },
+        {
+          "name": "elsewhencode/project-guidelines",
+          "url": "https://github.com/elsewhencode/project-guidelines",
+          "description": "A set of best practices for JavaScript projects. - ★ 29,426 stars, last push 2024-12-09.",
+          "tags": [],
+          "group": null,
+          "line": 184
+        },
+        {
+          "name": "alan2207/bulletproof-react",
+          "url": "https://github.com/alan2207/bulletproof-react",
+          "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture. - ★ 35,882 stars, last push 2026-05-14.",
+          "tags": [],
+          "group": null,
+          "line": 188
+        },
+        {
+          "name": "othneildrew/Best-README-Template",
+          "url": "https://github.com/othneildrew/Best-README-Template",
+          "description": "An awesome README template to jumpstart your projects! - ★ 16,374 stars, last push 2026-04-18.",
+          "tags": [],
+          "group": null,
+          "line": 192
+        }
+      ]
+    },
+    {
+      "name": "Contribute",
+      "entries": []
+    }
+  ]
+}

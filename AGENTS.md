@@ -1,5 +1,12 @@
 # Agent instructions
 
+<!-- coding-standards:begin -->
+Project coding rules: `CODING_STANDARDS.md`. Global baseline:
+`~/.agents/standards/CODING_STANDARDS.md`. Read both before changing
+behaviour.
+<!-- coding-standards:end -->
+
+
 This repository is one person's curated list. The rules it follows live in the
 engine at <https://github.com/olitreadwell/awesome-list-template>, and
 `readme.md` is the only source of truth for entries.

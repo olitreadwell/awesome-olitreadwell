@@ -24,18 +24,41 @@ is left for a human.
 
 - The five Visual Studio Code extension headings moved from level four to
   level three. awesome-lint fails a Contents section nested more than two
-  levels, and the level four links would otherwise have dropped out of it.
+  levels, and the level four links would otherwise have dropped out of it. The
+  section itself was removed in the 10 November 2026 usage refresh.
 
 ## Left for Oli
 
-- Eleven entries in the Visual Studio Code sections have no description. The
-  engine warns about them and `tests/test_readme.py` pins the count, so the
-  list cannot quietly gain more. They are the marketplace, Live Share, and
-  DigitalOcean links where the title says what the thing is and only you can
-  decide what to add.
 - `civic-tech.md` holds about twenty bare URLs. It is a reference file, not part
   of the checked list. It either needs names and descriptions written by hand or
   it should be folded into the Civic Tech section.
+
+## Usage-based refresh, 10 November 2026
+
+This refresh used local evidence rather than memory: installed Homebrew
+packages and casks, `/Applications`, shell history, and 1,100 Codex session
+files. The full evidence trail and candidate notes are in
+`reports/usage-audit-2026-11-10.md`.
+
+Changed:
+
+- Removed the Visual Studio Code section. VS Code is not in `/Applications`,
+  `code --list-extensions` returns nothing, and the Codex sessions show Orca,
+  Devin, iTerm and Lite XL instead. The useful editor-neutral ESLint and
+  Prettier links moved into the JavaScript subsection.
+- Added `Development Tools`: uv, Ruff, mise, GitHub CLI and Playwright. These
+  are installed and appear in the command history.
+- Added `Open Data`: the NZ, UK and US portals, Stats NZ and ONS. The three
+  open-data labs account for most Codex sessions.
+- Added Codex CLI, Claude Code, Matt Pocock's skills and Addy Osmani's Clarity
+  skill to AI Coding Agents. Addy's larger skill pack was already listed.
+- Added darktable, ExifTool and osxphotos to Photography, plus 1Password and
+  Tailscale to Privacy and Security.
+- Moved `WikiNewZealand/new-zealand-data` from Wellington to Open Data.
+
+Entry descriptions added in this refresh are copied or shortened from each
+project's own description or page metadata. No new description was invented
+from scratch. Replace any that do not sound like Oli.
 
 ## Retired
 

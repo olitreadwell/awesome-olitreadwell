@@ -23,8 +23,8 @@ make check
 
 - Every entry is `- [Name](https://example.com/) - What it is.` with a capital
   and a closing period. This list does not use tags.
-- Do not write entry text with a model. The descriptions are Oli's words, and
-  the twelve entries without one are waiting for him, not for you.
+- Do not write entry text with a model. The descriptions are Oli's words. If a
+  new entry needs one, leave it for Oli instead of inventing a description.
 - Run `make toc` after moving a heading, and never hand-edit Contents lines.
 - Give every GitHub link its stars and last-push date with `make stats`. Never
   hand-write a stars number. `make stats-check` verifies the snapshot offline.

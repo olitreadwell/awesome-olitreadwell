@@ -29,10 +29,10 @@ def test_no_rule_errors() -> None:
     assert errors == []
 
 
-# Eleven links in the Visual Studio Code sections have no description yet. The
-# words have to come from Oli, so the gate warns instead of failing, and this
-# number must not grow. They are listed in docs/migration.md.
-UNDESCRIBED_ENTRIES = 11
+# The stale Visual Studio Code section was removed on 10 November 2026 after
+# the local app and extension audit found no VS Code install. Keep this at zero
+# so a new link without a description fails the gate instead of accumulating.
+UNDESCRIBED_ENTRIES = 0
 
 
 def test_entry_descriptions_that_still_need_a_human() -> None:

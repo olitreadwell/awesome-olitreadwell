@@ -1,49 +1,74 @@
 {
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-11-10",
   "repos": {
     "ChromeDevTools/chrome-devtools-mcp": {
-      "stars": 52493,
-      "pushed_at": "2026-09-23",
+      "stars": 55015,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "JuliusBrussee/caveman": {
-      "stars": 107420,
-      "pushed_at": "2026-09-22",
+      "stars": 118576,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
-    "MicrosoftDocs/live-share": {
-      "stars": 2385,
-      "pushed_at": "2026-08-03",
+    "RhetTbull/osxphotos": {
+      "stars": 3990,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "TechforgoodCAST/awesome-techforgood": {
-      "stars": 202,
+      "stars": 205,
       "pushed_at": "2024-01-11",
       "archived": false
     },
     "WikiNewZealand/new-zealand-data": {
-      "stars": 311,
+      "stars": 315,
       "pushed_at": "2023-05-17",
       "archived": false
     },
     "addyosmani/agent-skills": {
-      "stars": 98512,
-      "pushed_at": "2026-09-23",
+      "stars": 114427,
+      "pushed_at": "2026-11-01",
+      "archived": false
+    },
+    "addyosmani/clarity": {
+      "stars": 351,
+      "pushed_at": "2026-09-05",
       "archived": false
     },
     "alan2207/bulletproof-react": {
-      "stars": 35882,
+      "stars": 36055,
       "pushed_at": "2026-05-14",
       "archived": false
     },
+    "anthropics/claude-code": {
+      "stars": 155058,
+      "pushed_at": "2026-11-06",
+      "archived": false
+    },
+    "astral-sh/ruff": {
+      "stars": 51129,
+      "pushed_at": "2026-11-09",
+      "archived": false
+    },
+    "astral-sh/uv": {
+      "stars": 91806,
+      "pushed_at": "2026-11-09",
+      "archived": false
+    },
     "awesome-selfhosted/awesome-selfhosted": {
-      "stars": 321129,
-      "pushed_at": "2026-09-21",
+      "stars": 335394,
+      "pushed_at": "2026-11-07",
       "archived": false
     },
     "bendc/frontend-guidelines": {
-      "stars": 9120,
+      "stars": 9130,
       "pushed_at": "2023-12-30",
+      "archived": false
+    },
+    "cli/cli": {
+      "stars": 46935,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "codeforamerica/civic-tech-patterns": {
@@ -52,183 +77,208 @@
       "archived": false
     },
     "dequelabs/axe-core": {
-      "stars": 7544,
-      "pushed_at": "2026-09-22",
+      "stars": 7788,
+      "pushed_at": "2026-11-05",
       "archived": false
     },
     "elsewhencode/project-guidelines": {
-      "stars": 29426,
+      "stars": 29416,
       "pushed_at": "2024-12-09",
       "archived": false
     },
     "eslint/eslint": {
-      "stars": 27522,
-      "pushed_at": "2026-09-22",
+      "stars": 27606,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "github/spec-kit": {
-      "stars": 138442,
-      "pushed_at": "2026-09-23",
+      "stars": 148955,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "gorhill/uBlock": {
-      "stars": 68060,
-      "pushed_at": "2026-09-22",
+      "stars": 69206,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "h5bp/html5-boilerplate": {
-      "stars": 57628,
-      "pushed_at": "2026-09-14",
+      "stars": 57666,
+      "pushed_at": "2026-11-01",
       "archived": false
     },
     "hail2u/html-best-practices": {
-      "stars": 4066,
+      "stars": 4058,
       "pushed_at": "2025-03-28",
       "archived": false
     },
     "ibaaj/awesome-OpenSourcePhotography": {
-      "stars": 665,
+      "stars": 680,
       "pushed_at": "2026-04-19",
       "archived": false
     },
     "iorate/ublacklist": {
-      "stars": 6640,
-      "pushed_at": "2026-09-20",
+      "stars": 6680,
+      "pushed_at": "2026-11-08",
+      "archived": false
+    },
+    "jdx/mise": {
+      "stars": 35977,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "juanfont/headscale": {
-      "stars": 44053,
-      "pushed_at": "2026-09-17",
+      "stars": 45509,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "lissy93/awesome-privacy": {
-      "stars": 9895,
-      "pushed_at": "2026-09-16",
+      "stars": 10061,
+      "pushed_at": "2026-10-31",
       "archived": false
     },
     "lissy93/personal-security-checklist": {
-      "stars": 22371,
-      "pushed_at": "2026-09-07",
+      "stars": 22736,
+      "pushed_at": "2026-11-01",
+      "archived": false
+    },
+    "mattpocock/skills": {
+      "stars": 319423,
+      "pushed_at": "2026-11-09",
+      "archived": false
+    },
+    "microsoft/playwright": {
+      "stars": 99682,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/4-day-week-job-sites": {
       "stars": 0,
-      "pushed_at": "2026-09-23",
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/employee-owned-job-sites": {
       "stars": 0,
-      "pushed_at": "2026-09-23",
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/kiwi-djs": {
       "stars": 0,
-      "pushed_at": "2026-09-09",
+      "pushed_at": "2026-11-08",
       "archived": false
     },
     "olitreadwell/kiwi-fests": {
       "stars": 1,
-      "pushed_at": "2026-09-09",
+      "pushed_at": "2026-11-01",
       "archived": false
     },
     "olitreadwell/nz-data-lab": {
       "stars": 0,
-      "pushed_at": "2026-09-21",
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/nz-tech-for-good": {
-      "stars": 2,
-      "pushed_at": "2026-09-20",
+      "stars": 4,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/olitreadwell.github.io": {
       "stars": 1,
-      "pushed_at": "2026-09-09",
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/op-shop-directory": {
       "stars": 0,
-      "pushed_at": "2026-09-09",
+      "pushed_at": "2026-11-02",
       "archived": false
     },
     "olitreadwell/photography": {
       "stars": 0,
-      "pushed_at": "2026-09-09",
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/price-to-impact": {
       "stars": 1,
-      "pushed_at": "2026-09-21",
+      "pushed_at": "2026-11-02",
       "archived": false
     },
     "olitreadwell/react-performance-checklist": {
       "stars": 0,
-      "pushed_at": "2026-09-20",
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/remote-job-sites": {
       "stars": 0,
-      "pushed_at": "2026-09-23",
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/resume": {
-      "stars": 2,
-      "pushed_at": "2026-09-09",
+      "stars": 3,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/tech-for-good-job-sites": {
       "stars": 0,
-      "pushed_at": "2026-09-23",
+      "pushed_at": "2026-11-09",
+      "archived": false
+    },
+    "olitreadwell/template": {
+      "stars": 0,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "olitreadwell/wellington-art-galleries": {
       "stars": 0,
-      "pushed_at": "2026-09-09",
+      "pushed_at": "2026-11-02",
       "archived": false
     },
     "olitreadwell/wellington-run-clubs": {
       "stars": 0,
-      "pushed_at": "2026-09-09",
+      "pushed_at": "2026-11-01",
       "archived": false
     },
     "ollama/ollama": {
-      "stars": 181500,
-      "pushed_at": "2026-09-23",
+      "stars": 186424,
+      "pushed_at": "2026-11-09",
+      "archived": false
+    },
+    "openai/codex": {
+      "stars": 134266,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "othneildrew/Best-README-Template": {
-      "stars": 16374,
+      "stars": 16457,
       "pushed_at": "2026-04-18",
       "archived": false
     },
     "radix-ui/primitives": {
-      "stars": 19315,
-      "pushed_at": "2026-08-08",
+      "stars": 19485,
+      "pushed_at": "2026-10-14",
       "archived": false
     },
     "ryanmcdermott/clean-code-javascript": {
-      "stars": 94752,
+      "stars": 94689,
       "pushed_at": "2024-07-29",
       "archived": false
     },
     "shadcn-ui/ui": {
-      "stars": 124443,
-      "pushed_at": "2026-09-21",
+      "stars": 127711,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "stablyai/orca": {
-      "stars": 75875,
-      "pushed_at": "2026-09-23",
+      "stars": 120164,
+      "pushed_at": "2026-11-09",
       "archived": false
     },
     "thedaviddias/Front-End-Checklist": {
-      "stars": 74233,
-      "pushed_at": "2026-08-14",
+      "stars": 74683,
+      "pushed_at": "2026-10-31",
       "archived": false
     },
     "yaelwrites/Big-Ass-Data-Broker-Opt-Out-List": {
-      "stars": 6867,
-      "pushed_at": "2026-08-28",
+      "stars": 6994,
+      "pushed_at": "2026-10-31",
       "archived": false
     }
   }

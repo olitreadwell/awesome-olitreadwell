@@ -38,7 +38,6 @@
 - [Orca](https://github.com/stablyai/orca) - My primary AI development environment for working with a fleet of parallel agents. - ★ 120,164 stars, last push 2026-11-09.
 - [Codex CLI](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal. - ★ 134,266 stars, last push 2026-11-09.
 - [Claude Code](https://github.com/anthropics/claude-code) - Agentic coding tool that lives in your terminal. - ★ 155,058 stars, last push 2026-11-06.
-- [Windsurf](https://github.com/windsurf-ai) - My IDE.
 - [Devin](https://github.com/CognitionAI) - My IDE.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for real engineers, straight from his `.agents` directory. - ★ 319,423 stars, last push 2026-11-09.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for coding agents. - ★ 114,427 stars, last push 2026-11-01.
@@ -102,14 +101,6 @@ Tech for public good. Full list in [civic-tech.md](civic-tech.md).
 - [darktable](https://www.darktable.org/) - Open source photography workflow application and raw developer.
 - [ExifTool](https://exiftool.org/) - Read and write metadata in image, audio and video files.
 - [osxphotos](https://github.com/RhetTbull/osxphotos) - Work with pictures and metadata from Apple Photos. - ★ 3,990 stars, last push 2026-11-09.
-
-## Wellington and Aotearoa
-
-- [wellington-run-clubs](https://github.com/olitreadwell/wellington-run-clubs) - My list of Wellington run clubs. - ★ 0 stars, last push 2026-11-01.
-- [wellington-art-galleries](https://github.com/olitreadwell/wellington-art-galleries) - My list of Wellington art galleries. - ★ 0 stars, last push 2026-11-02.
-- [op-shop-directory](https://github.com/olitreadwell/op-shop-directory) - My directory of op shops. - ★ 0 stars, last push 2026-11-02.
-- [kiwi-djs](https://github.com/olitreadwell/kiwi-djs) - My list of NZ DJs. - ★ 0 stars, last push 2026-11-08.
-- [kiwi-fests](https://github.com/olitreadwell/kiwi-fests) - My list of NZ music festivals. - ★ 1 star, last push 2026-11-01.
 
 ## Career and Job Hunting
 
